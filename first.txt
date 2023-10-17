@@ -1,6 +1,4 @@
 hello world
 hello from new file
-This is branch change work1
-<<<<<<< HEAD
-Test-conflict
->>>>>>> branch_conflict
+This is branch change ppv
+
